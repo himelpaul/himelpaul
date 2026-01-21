@@ -73,17 +73,17 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <a href="https://leetcode.com/himelpaul">
+      <a href="https://leetcode.com/u/rexeslab/">
         <img src="./images/lc.png" width="80%" alt="LeetCode" />
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://www.hackerrank.com/himelpaul">
+      <a href="https://www.hackerrank.com/profile/himelpaul">
         <img src="./images/hr.png" width="80%" alt="HackerRank" />
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://codeforces.com/profile/himelpaul">
+      <a href="https://codeforces.com/profile/himel_paul">
         <img src="./images/cf.png" width="80%" alt="CodeForces" />
       </a>
     </td>
