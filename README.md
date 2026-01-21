@@ -1,5 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=himelpaul&theme=react&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=react&hide_border=true)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=himelpaul&theme=react&hide_border=true&include_all_commits=false&count_private=false" width="350"/> ![](https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=react&hide_border=true)<br/>
 
 
 ---
