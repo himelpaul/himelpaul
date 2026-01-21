@@ -1,18 +1,10 @@
-![](https://github-readme-stats.vercel.app/api?username=himelpaul&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=dark&hide_border=true)<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=himelpaul&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=himelpaul&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=himelpaul&theme=buefy&hide_border=true&include_all_commits=true&count_private=true" />
     </td>
     <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=dark&hide_border=true" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=buefy&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -81,7 +73,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=donut" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=donut" />
     </td>
   </tr>
 </table>
