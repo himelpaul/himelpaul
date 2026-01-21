@@ -33,7 +33,6 @@
   <img width="25" />
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="50" alt="nextjs logo" />
   <br/>
-  <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="nestjs logo" />
@@ -54,7 +53,6 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" />
   <br/>
-  <br/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo" />
@@ -65,6 +63,18 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo" />
 </div>
+
+<br/>
+<br/>
+<br/>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=donut" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -97,16 +107,6 @@
     </td>
     <td align="center">
       <a href="https://www.codeforces.com/profile/himel_paul"><b>@himelpaul</b></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=donut" />
     </td>
   </tr>
 </table>
