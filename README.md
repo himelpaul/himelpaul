@@ -90,13 +90,13 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://leetcode.com/u/rexeslab/"><b>@himelpaul</b></a>
+      <a href="https://www.leetcode.com/u/rexeslab/"><b>@himelpaul</b></a>
     </td>
     <td align="center">
       <a href="https://www.hackerrank.com/profile/himelpaul"><b>@himelpaul</b></a>
     </td>
     <td align="center">
-      <a href="https://codeforces.com/profile/himel_paul"><b>@himelpaul</b></a>
+      <a href="https://www.codeforces.com/profile/himel_paul"><b>@himelpaul</b></a>
     </td>
   </tr>
 </table>
