@@ -33,6 +33,8 @@
   <img width="25" />
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="50" alt="nextjs logo" />
   <br/>
+  <br/>
+  <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="nestjs logo" />
@@ -52,6 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" />
+  <br/>
+  <br/>
   <br/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo" />
   <img width="25" />
