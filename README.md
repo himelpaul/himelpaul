@@ -1,7 +1,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=himelpaul&theme=react&hide_border=true&include_all_commits=false&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=himelpaul&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
     </td>
     <td align="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=react&hide_border=true" />
