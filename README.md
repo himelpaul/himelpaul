@@ -1,4 +1,14 @@
-<img src="https://github-readme-stats.vercel.app/api?username=himelpaul&theme=react&hide_border=true&include_all_commits=false&count_private=false" width="350"/> ![](https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=react&hide_border=true)<br/>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=himelpaul&theme=react&hide_border=true&include_all_commits=false&count_private=false" />
+</td>
+<td>
+<img src="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=react&hide_border=true" />
+</td>
+</tr>
+</table>
+
 
 
 ---
@@ -60,4 +70,4 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/e1154847-6200-4513-9035-93ce38c0ee5f" />
