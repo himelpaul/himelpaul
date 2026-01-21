@@ -106,7 +106,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=donut" />
     </td>
   </tr>
 </table>
