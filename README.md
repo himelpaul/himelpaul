@@ -1,9 +1,9 @@
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=himelpaul&theme=react&hide_border=true&include_all_commits=false&count_private=false" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=himelpaul&theme=react&hide_border=true&include_all_commits=true&count_private=false" />
     </td>
-    <td align="center" width="50%">
+    <td align="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=react&hide_border=true" />
     </td>
   </tr>
@@ -90,13 +90,13 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://leetcode.com/himelpaul"><b>@himelpaul</b></a>
+      <a href="https://leetcode.com/u/rexeslab/"><b>@himelpaul</b></a>
     </td>
     <td align="center">
-      <a href="https://www.hackerrank.com/himelpaul"><b>@himelpaul</b></a>
+      <a href="https://www.hackerrank.com/profile/himelpaul"><b>@himelpaul</b></a>
     </td>
     <td align="center">
-      <a href="https://codeforces.com/profile/himelpaul"><b>@himelpaul</b></a>
+      <a href="https://codeforces.com/profile/himel_paul"><b>@himelpaul</b></a>
     </td>
   </tr>
 </table>
