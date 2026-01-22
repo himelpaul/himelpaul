@@ -1,10 +1,30 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=himelpaul&theme=buefy&hide_border=true&include_all_commits=true&count_private=true" />
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=himelpaul&theme=github_dark&hide_title=true&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&commits_year=2026&rank_icon=github"
+          media="(prefers-color-scheme: dark)"
+          />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=himelpaul&theme=buefy&icon_color=7957D5&hide_title=true&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&commits_year=2026&rank_icon=github"
+          media="(prefers-color-scheme: light)"
+          />
+        <img src="https://github-readme-stats.vercel.app/api?username=himelpaul" />
+      </picture>
     </td>
     <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=buefy&hide_border=true" />
+      <picture>
+        <source
+          srcset="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=github_dark&hide_border=true"
+          media="(prefers-color-scheme: dark)"
+          />
+        <source
+          srcset="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=buefy&hide_border=true"
+          media="(prefers-color-scheme: light)"
+          />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=himelpaul" />
+      </picture>
     </td>
   </tr>
 </table>
@@ -73,7 +93,17 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=donut" />
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut"
+          media="(prefers-color-scheme: dark)"
+          />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=donut"
+          media="(prefers-color-scheme: light)"
+          />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul" />
+      </picture>
     </td>
   </tr>
 </table>
@@ -86,17 +116,17 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://leetcode.com/u/rexeslab/">
-        <img src="./images/lc.png" width="80%" alt="LeetCode" />
+        <img src="./images/lc.png" width="75%" alt="LeetCode" />
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.hackerrank.com/profile/himelpaul">
-        <img src="./images/hr.png" width="80%" alt="HackerRank" />
+        <img src="./images/hr.png" width="75%" alt="HackerRank" />
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://codeforces.com/profile/himel_paul">
-        <img src="./images/cf.png" width="80%" alt="CodeForces" />
+        <img src="./images/cf.png" width="75%" alt="CodeForces" />
       </a>
     </td>
   </tr>
@@ -112,3 +142,16 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+
+<br/>
+<h3 align="center">🤝 Connect with me:</h3>
+<p align="center">
+<a href="https://www.facebook.com/rexeslab23" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/rexeslab23/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/himelpaul" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:himelpaul23@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/1111292572950859896" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" height="35" /></a>
+</p>
