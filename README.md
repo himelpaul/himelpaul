@@ -1,8 +1,10 @@
-<h4 align="center">
-
+<h5 align="center">
 <a>![](https://komarev.com/ghpvc/?username=himelpaul&abbreviated=true&label=Profile+Visited&color=blueviolet&style=for-the-badge)</a> 
+</h5>
 
-</h4>
+
+
+
 
 <table align="center" width="100%">
   <tr>
@@ -35,6 +37,10 @@
   </tr>
 </table>
 
+
+
+
+
 <!-- Quotes -->
 <h4 align="center">
   
@@ -42,10 +48,87 @@
  "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self"
 - Ernest Hemingway
 ```
-
 <br/>
 
+
+
+
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="35%">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"
+          media="(prefers-color-scheme: light)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+      </picture>
+    </td>
+
+  <td align="center" width="65%">
+      <picture>
+        <source
+          srcset="https://leetcard.jacoblin.cool/rexeslab?theme=dark&font=Manjari&colors=%230D1117%2C%20%23404040%2C%20%23C3D1D9%2C%20%23C3D1D9&ext=heatmap"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://leetcard.jacoblin.cool/rexeslab?theme=light&font=Manjari&ext=heatmap&hide_border=true"
+          media="(prefers-color-scheme: light)"
+        />
+        <img src="https://leetcard.jacoblin.cool/rexeslab?theme=dark&font=Manjari&ext=heatmap&hide_border=true" alt="LeetCode Stats" />
+     </picture>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+<h3 align="center">Competitive Programming Summary:</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://leetcode.com/u/rexeslab/">
+        <img src="./images/lc.png" width="75%" alt="LeetCode" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.hackerrank.com/profile/himelpaul">
+        <img src="./images/hr.png" width="75%" alt="HackerRank" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://codeforces.com/profile/himel_paul">
+        <img src="./images/cf.png" width="75%" alt="CodeForces" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.leetcode.com/u/rexeslab/"><b>@himelpaul</b></a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/himelpaul"><b>@himelpaul</b></a>
+    </td>
+    <td align="center">
+      <a href="https://www.codeforces.com/profile/himel_paul"><b>@himelpaul</b></a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 <h3 align="center">Languages and Tools:</h3>
+<br/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" />
   <img width="25" />
@@ -100,79 +183,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo" />
 </div>
 
-<br/>
-<br/>
-<br/>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="35%">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"
-          media="(prefers-color-scheme: light)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-      </picture>
-    </td>
 
-  <td align="center" width="65%">
-      <picture>
-        <source
-          srcset="https://leetcard.jacoblin.cool/rexeslab?theme=dark&font=Manjari&colors=%230D1117%2C%20%23404040%2C%20%23C3D1D9%2C%20%23C3D1D9&ext=heatmap"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://leetcard.jacoblin.cool/rexeslab?theme=light&font=Manjari&ext=heatmap&hide_border=true"
-          media="(prefers-color-scheme: light)"
-        />
-        <img src="https://leetcard.jacoblin.cool/rexeslab?theme=dark&font=Manjari&ext=heatmap&hide_border=true" alt="LeetCode Stats" />
-     </picture>
-    </td>
-  </tr>
-</table>
+
 
 <br/>
-
-<h3 align="center">Competitive Programming Summary:</h3>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://leetcode.com/u/rexeslab/">
-        <img src="./images/lc.png" width="75%" alt="LeetCode" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.hackerrank.com/profile/himelpaul">
-        <img src="./images/hr.png" width="75%" alt="HackerRank" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://codeforces.com/profile/himel_paul">
-        <img src="./images/cf.png" width="75%" alt="CodeForces" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.leetcode.com/u/rexeslab/"><b>@himelpaul</b></a>
-    </td>
-    <td align="center">
-      <a href="https://www.hackerrank.com/profile/himelpaul"><b>@himelpaul</b></a>
-    </td>
-    <td align="center">
-      <a href="https://www.codeforces.com/profile/himel_paul"><b>@himelpaul</b></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.facebook.com/rexeslab23" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
