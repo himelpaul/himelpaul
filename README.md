@@ -109,7 +109,7 @@
   <td align="center" width="65%">
       <picture>
         <source
-          srcset="https://leetcard.jacoblin.cool/rexeslab?theme=dark&font=Manjari&ext=heatmap&hide_border=true"
+          srcset="https://leetcard.jacoblin.cool/rexeslab?theme=dark&font=Manjari&colors=%230D1117%2C%20%23404040%2C%20%23C3D1D9%2C%20%23C3D1D9&ext=heatmap"
           media="(prefers-color-scheme: dark)"
         />
         <source
