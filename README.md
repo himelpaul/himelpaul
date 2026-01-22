@@ -1,3 +1,9 @@
+<h4 align="center">
+
+<a>![](https://komarev.com/ghpvc/?username=himelpaul&abbreviated=true&label=Profile+Visited&color=blueviolet&style=for-the-badge)</a> 
+
+</h4>
+
 <table align="center" width="100%">
   <tr>
     <td align="center">
@@ -16,7 +22,7 @@
     <td align="center">
       <picture>
         <source
-          srcset="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=github_dark&hide_border=true"
+          srcset="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=holi&hide_border=true"
           media="(prefers-color-scheme: dark)"
           />
         <source
@@ -28,6 +34,14 @@
     </td>
   </tr>
 </table>
+
+<!-- Quotes -->
+<h4 align="center">
+  
+```
+ "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self"
+- Ernest Hemingway
+```
 
 <br/>
 
@@ -124,7 +138,7 @@
 
 <br/>
 
-<h3 align="center">🏆 Competitive Programming Summary:</h3>
+<h3 align="center">Competitive Programming Summary:</h3>
 
 <table align="center" width="100%">
   <tr>
@@ -161,7 +175,7 @@
 
 
 <br/>
-<h3 align="center">🤝 Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.facebook.com/rexeslab23" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/rexeslab23/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
