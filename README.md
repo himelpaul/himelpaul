@@ -173,8 +173,6 @@
 
 <br/>
 
-
-<br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.facebook.com/rexeslab23" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
