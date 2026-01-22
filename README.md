@@ -22,7 +22,7 @@
     <td align="center">
       <picture>
         <source
-          srcset="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=holi&hide_border=true"
+          srcset="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=github_dark&hide_border=true"
           media="(prefers-color-scheme: dark)"
           />
         <source
