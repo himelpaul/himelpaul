@@ -92,18 +92,32 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="35%">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
           media="(prefers-color-scheme: dark)"
-          />
+        />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=donut"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"
           media="(prefers-color-scheme: light)"
-          />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul" />
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
       </picture>
+    </td>
+
+  <td align="center" width="65%">
+      <picture>
+        <source
+          srcset="https://leetcard.jacoblin.cool/rexeslab?theme=dark&font=Manjari&ext=heatmap&hide_border=true"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://leetcard.jacoblin.cool/rexeslab?theme=light&font=Manjari&ext=heatmap&hide_border=true"
+          media="(prefers-color-scheme: light)"
+        />
+        <img src="https://leetcard.jacoblin.cool/rexeslab?theme=dark&font=Manjari&ext=heatmap&hide_border=true" alt="LeetCode Stats" />
+     </picture>
     </td>
   </tr>
 </table>
