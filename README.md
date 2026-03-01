@@ -1,29 +1,25 @@
 <h5 align="center">
-  
-<a>![](https://komarev.com/ghpvc/?username=himelpaul&abbreviated=true&label=Profile+Visited&color=blueviolet&style=for-the-badge)</a> 
-
+  <a><img src="https://komarev.com/ghpvc/?username=himelpaul&abbreviated=true&label=Profile+Visited&color=blueviolet&style=for-the-badge" alt="Profile Visited" /></a> 
 </h5>
 
-
-
-
+<br/>
 
 <table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=himelpaul&theme=github_dark&hide_title=true&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&commits_year=2026&rank_icon=github"
+          srcset="https://denvercoder1-github-readme-stats.vercel.app/api?username=himelpaul&theme=github_dark&hide_title=true&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&commits_year=2026&rank_icon=github"
           media="(prefers-color-scheme: dark)"
           />
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=himelpaul&theme=buefy&icon_color=7957D5&hide_title=true&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&commits_year=2026&rank_icon=github"
+          srcset="https://denvercoder1-github-readme-stats.vercel.app/api?username=himelpaul&theme=buefy&icon_color=7957D5&hide_title=true&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&commits_year=2026&rank_icon=github"
           media="(prefers-color-scheme: light)"
           />
-        <img src="https://github-readme-stats.vercel.app/api?username=himelpaul" />
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=himelpaul&theme=github_dark&hide_title=true&hide_border=true&show_icons=true&rank_icon=github" alt="Himel's GitHub Stats" />
       </picture>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <picture>
         <source
           srcset="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=github_dark&hide_border=true"
@@ -33,12 +29,11 @@
           srcset="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=buefy&hide_border=true"
           media="(prefers-color-scheme: light)"
           />
-        <img src="https://nirzak-streak-stats.vercel.app/?user=himelpaul" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=github_dark&hide_border=true" alt="Himel's Streak Stats" />
       </picture>
     </td>
   </tr>
 </table>
-
 
 
 
@@ -56,19 +51,20 @@
 
 
 
+
 <table align="center" width="100%">
   <tr>
     <td align="center" width="35%">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+          srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"
+          srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"
           media="(prefers-color-scheme: light)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=himelpaul&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
       </picture>
     </td>
 
