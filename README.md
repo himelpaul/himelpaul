@@ -22,14 +22,14 @@
     <td align="center" width="50%">
       <picture>
         <source
-          srcset="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=github_dark&hide_border=true"
+          srcset="https://github-readme-streak-stats.herokuapp.com/?user=himelpaul&theme=github_dark&hide_border=true&cache_bust=69"
           media="(prefers-color-scheme: dark)"
           />
         <source
-          srcset="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=buefy&hide_border=true"
+          srcset="https://github-readme-streak-stats.herokuapp.com/?user=himelpaul&theme=buefy&hide_border=true&cache_bust=69"
           media="(prefers-color-scheme: light)"
           />
-        <img src="https://nirzak-streak-stats.vercel.app/?user=himelpaul&theme=github_dark&hide_border=true" alt="Himel's Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=himelpaul&theme=github_dark&hide_border=true&cache_bust=69" alt="Himel's Streak Stats" />
       </picture>
     </td>
   </tr>
